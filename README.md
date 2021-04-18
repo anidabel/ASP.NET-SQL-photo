@@ -10,4 +10,5 @@
 
 Технологии:
 ASP.NET MVC
+
 удаленный доступ к БД с помощью Entity Framework
